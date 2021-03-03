@@ -1,7 +1,7 @@
 # Dart Programming Language
 ### Watch Video Tutorial:- https://youtu.be/R2sRhDq7qKk
 ## Topics:-
-* Visitng Dart Official Website
+* Visiting Dart Official Website
 * Download and Install Dart SDK
 * Set PATH for Dart
 * Folder Setup in VS Code
